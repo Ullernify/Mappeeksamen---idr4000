@@ -1,6 +1,8 @@
 
 
-# Assignment 1: Reliability and tools for reproducible data science {#assignment1}
+
+
+# Oppgave 1: Reliabilitet og verktøy for å reprodusere data
 
 The purpose of this assignment is to present estimates of reliability of measures collected in the physiology lab. A second purpose is to use tools for reproducible data science. The report that you are expected to hand in therefore has some strict requirements in its format (see [assignment description](https://dhammarstrom.github.io/quant-methods-workshops/assignment-1.html)). The assignment is a group assignment and at least three students are expected to contribute to each report.
 
